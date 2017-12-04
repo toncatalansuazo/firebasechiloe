@@ -1,0 +1,12 @@
+[debug] [2017-08-21T16:54:49.490Z] ----------------------------------------------------------------------
+[debug] [2017-08-21T16:54:49.492Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\wcatalan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2017-08-21T16:54:49.493Z] CLI Version:  3.9.1
+[debug] [2017-08-21T16:54:49.493Z] Platform:     win32
+[debug] [2017-08-21T16:54:49.493Z] Node Version: v6.11.1
+[debug] [2017-08-21T16:54:49.494Z] Time:         Mon Aug 21 2017 13:54:49 GMT-0300 (Pacific SA Daylight Time)
+[debug] [2017-08-21T16:54:49.494Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-21T16:54:49.512Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-21T16:54:49.513Z] > authorizing via signed-in user
+[debug] [2017-08-21T16:54:49.516Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/prdmem-5da6c  
+ Mon Aug 21 2017 13:54:49 GMT-0300 (Pacific SA Daylight Time)
